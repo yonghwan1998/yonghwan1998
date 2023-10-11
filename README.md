@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hi,%20I'm%20YongHwan%20Bang👋&fontSize=40&fontAlignY=25&color=timeGradient)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hi,%20I'm%20YongHwan%20Bang👋&fontSize=44&fontAlignY=25&color=timeGradient&height=180)
 
 ### Contact Information 📞
 - Contact : bbl737898@gmail.com <br>
