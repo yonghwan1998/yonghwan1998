@@ -73,8 +73,8 @@
 
 ### Interested 🥉
 - Infra:
-  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&amp;logo=apachetomcat&amp;logoColor=black">
-  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white">
+  <br>
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghwan1998&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
