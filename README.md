@@ -16,42 +16,65 @@
 <br>
 
 ### Skills 🥇
-- Language :
+- Language:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <br>
-- Framework :
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
+- Framework:
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
   <br>
-- DataBase :
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
+- Library:
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&amp;logo=jQuery&amp;logoColor=white"></a>
   <br>
-- App & Tools :
+- WEB:
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&amp;logo=apachetomcat&amp;logoColor=black"></a>
+  <br>
+- DataBase:
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+  <br>
+- App & Tools:
+  <img src="/img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" style="vertical-align: middle;"/></a>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=Postman&amp;logoColor=white"></a>
   <br>
-  
-
 <br>
 
 ### Knowledge 🥈
-- Language :
+- Language:
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&amp;logo=Typescript&amp;logoColor=white"></a>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white"></a>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
   <br>
-- Framework :
+- Framework:
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
   <br>
-- DataBase :
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+- Library
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=black"></a>
+  <br>
+- DataBase:
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
+  <br>
+- Infra:
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white"></a>
+  <br>
+- OS:
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black"></a>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&amp;logo=Ubuntu&amp;logoColor=white"></a>
+  <br>
+- SCM:
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"></a>
   <br>
 <br>
 
 ### Interested 🥉
-- Framework :
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
+- Infra:
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&amp;logo=apachetomcat&amp;logoColor=black">
+  
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghwan1998&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
