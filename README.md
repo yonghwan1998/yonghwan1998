@@ -15,6 +15,15 @@
 - Bachelor of Science in Electrical Engineering (전자공학부 전자공학전공) <br>
 <br>
 
+### Experience 🏢💼
+- **YOU & PEOPLE**((주)유앤피플) | Backend Developer  
+  `2024.01 ~ 2024.11`
+  - Tech Stack: Java, Spring, Apache Tomcat, MySQL, Oracle
+- **SAENAL**((주)새날) | Full-stack Developer  
+  `2024.11 ~ 2025.08`
+  - Tech Stack: PHP, React, TypeScript, nginx, MySQL
+<br>
+
 ### Skills 🥇
 - Language:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
